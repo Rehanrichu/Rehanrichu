@@ -3,18 +3,18 @@
 
 I am a Bio-Science student from Kerala, India, passionate about the intersection of Healthcare and Artificial Intelligence.
 
-## 🚀 My Python Projects
+##  My Python Projects
 
-### 🏥 Healthcare & Bio-Informatics
+###  Healthcare & Bio-Informatics
 * **[Ailment Discoverer](https://github.com/Rehanrichu/Ailment-Discoverer)** - Diagnostic tool using NCERT Biology symptoms to identify infectious diseases.
 * **[BMI Calculator](https://github.com/Rehanrichu/BMI-Calculator)** - Health-tech tool for physical metrics and nutritional advice.
 
-### 🤖 Logic & Automation
+###  Logic & Automation
 * **[McDonald's POS](https://github.com/Rehanrichu/Mc-donald)** - Automated billing system with customer reward logic.
 * **[Number Classifier](https://github.com/Rehanrichu/number-classifier-3)** - Mathematical algorithm categorizing data by sign and parity.
 * **[Candy Smasher](https://github.com/Rehanrichu/candy)** - Fair-sharing logic using modular arithmetic.
 
-## 🎓 Certifications
+##  Certifications
 * **Kaggle:** Intro to Programming & Python Tutorials
 * **IIT Madras:** Data Science and AI
 * **GeoGebra:** District A Grade in Mathematical Constructions
