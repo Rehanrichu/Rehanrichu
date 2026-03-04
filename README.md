@@ -20,5 +20,5 @@ I am a Bio-Science student from Kerala, India, passionate about the intersection
 * **GeoGebra:** District A Grade in Mathematical Constructions
 
 * ## Quick Note on My GitHub Journey
-Hey! This is my fresh GitHub profile — my old one got deleted due to some account issues (tech glitches happen ). I've been self-teaching Python via Kaggle since late 2025, and I'm rebuilding stronger with healthcare AI projects like Ailment Discoverer. Excited to collaborate and grow — check out my pinned repos!
+Hey! This is my fresh GitHub profile — my old one got deleted due to some account issues (tech glitches happen ). I've been self-studying Python via Kaggle since late 2025, and I'm rebuilding stronger with healthcare AI projects like Ailment Discoverer. Excited to collaborate and grow.
 
