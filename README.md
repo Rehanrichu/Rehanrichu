@@ -19,9 +19,6 @@ I am a Bio-Science student from Kerala, India, passionate about the intersection
 * **IIT Madras:** Data Science and AI
 * **GeoGebra:** District A Grade in Mathematical Constructions
 
-* <image-card alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" ></image-card>
-<image-card alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" ></image-card>
-<image-card alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" ></image-card>
 
 * ## Quick Note on My GitHub Journey
 Hey! This is my fresh GitHub profile — my old one got deleted due to some account issues (tech glitches happen ). I've been self-studying Python via Kaggle since late 2025, and I'm rebuilding stronger with healthcare AI projects like Ailment Discoverer. Excited to collaborate and grow.
