@@ -13,7 +13,7 @@ I am a Bio-Science student from Kerala, India, passionate about the intersection
 * **[McDonald's POS](https://github.com/Rehanrichu/Mc-donald)** - Automated billing system with customer reward logic.
 * **[Number Classifier](https://github.com/Rehanrichu/number-classifier-3)** - Mathematical algorithm categorizing data by sign and parity.
 * **[Candy Smasher](https://github.com/Rehanrichu/candy)** - Fair-sharing logic using modular arithmetic.
-* **[Rock,Paper,Scissors](https://github.com/Rehanrichu/Rock-Paper-Scissors.git)*** -Just a childhood game created and can played by computer.
+* **[Rock,Paper,Scissors](https://github.com/Rehanrichu/Rock-Paper-Scissors.git)** -Just a childhood game created and can played by computer.
 
 ##  Certifications
 * **Kaggle:** Intro to Programming & Python Tutorials
