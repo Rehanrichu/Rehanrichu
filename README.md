@@ -7,6 +7,7 @@ I am a Bio-Science student from Kerala, India, passionate about the intersection
 
 ###  Healthcare & Bio-Informatics
 * **[Ailment Discoverer](https://github.com/Rehanrichu/Ailment-Discoverer)** - Diagnostic tool using NCERT Biology symptoms to identify infectious diseases.
+* **[Ailment Discoverer](https://github.com/Rehanrichu/Ailment-Discoverer)** - Diagnostic tool using NCERT Biology symptoms to identify infectious diseases.
 * **[BMI Calculator](https://github.com/Rehanrichu/BMI-Calculator)** - Health-tech tool for physical metrics and nutritional advice.
 
 ###  Logic & Automation
