@@ -6,7 +6,7 @@ I am a Bio-Science student from Kerala, India, passionate about the intersection
 ##  My Python Projects
 
 ###  Healthcare & Bio-Informatics
-* **[NCERT Diagnostic Logic: Heuristic vs. ML](https://github.com/Rehanrichu/NCERT-Diagnostic-Logic-Heuristic-vs.-ML.git))** - "A comparative research study evaluating rule-based Python logic vs. Scikit-learn Decision Trees for medical diagnostics, using symptoms from the NCERT Bio-Science curriculum.
+* **[NCERT Diagnostic Logic: Heuristic vs. ML](https://github.com/Rehanrichu/NCERT-Diagnostic-Logic-Heuristic-vs.-ML.git)** - "A comparative research study evaluating rule-based Python logic vs. Scikit-learn Decision Trees for medical diagnostics, using symptoms from the NCERT Bio-Science curriculum.
 * **[Ailment Discoverer](https://github.com/Rehanrichu/Ailment-Discoverer)** - Diagnostic tool using NCERT Biology symptoms to identify infectious diseases.
 * **[BMI Calculator](https://github.com/Rehanrichu/BMI-Calculator)** - Health-tech tool for physical metrics and nutritional advice.
 
