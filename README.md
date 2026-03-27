@@ -23,7 +23,7 @@ I am an 18-year-old Bio-Science student from Kerala, India, currently appearing 
 * **Tech Stack:** Random Forest Classifier, Scikit-learn, Pandas.
 * **Impact:** Demonstrates the application of data-driven algorithms to oncology and diagnostic pathology.
 
-#### 3. [Ailment Discoverer v2.0](https://github.com/Rehanrichu/Ailment-Discoverer)
+#### 3. [Ailment Discoverer](https://github.com/Rehanrichu/Ailment-Discoverer)
 * **Description:** A specialized tool that cross-references user-reported symptoms with the NCERT Biology syllabus to identify infectious diseases.
 
 ---
