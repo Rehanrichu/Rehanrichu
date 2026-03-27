@@ -1,5 +1,5 @@
 # Hi, I'm Muhammed Rehan C.K. 👋 
-### Bio-Science Student | Aspiring AI Researcher | Self-Taught Programmer
+### Prospective Undergraduate Student | Bio-Science & AI Enthusiast
 
 > [!IMPORTANT]
 > **Portfolio Status:** This is a newly established repository. My previous account was lost due to technical glitches; I am rebuilding this space to focus exclusively on high-level **Bio-AI research projects** and diagnostic automation.
