@@ -37,7 +37,7 @@ I am an 18-year-old Bio-Science student from Kerala, India, currently appearing 
 ---
 
 ### 🎓 Academic & Honors
-* **Catholicate HSS Pothukal:** Class 12 Bio-Science (2026 Board Examinee).
+* **Catholicate HSS Pothukal:** Recently completed my Class 12 Board Exams (March 2026)
 * **Catholicate High School:** Class 10 — **9 A+ Grades**.
 * **IIT Madras:** Data Science and AI (Self-paced University Course).
 * **Kaggle Certifications:** Intro to Machine Learning, Python, and Intro to Programming.
