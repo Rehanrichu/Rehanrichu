@@ -13,17 +13,7 @@ I am an 18-year-old Bio-Science student from Kerala, India, currently appearing 
 
 ### 🚀 Core AI & Bio-Informatics Projects
 
-#### 1. [NCERT Diagnostic Logic: Heuristic vs. ML](https://github.com/Rehanrichu/NCERT-Diagnostic-Logic)
-* **Research Focus:** A comparative study evaluating the efficiency of automated ML patterns against manual, rule-based diagnostic logic.
-* **Methodology:** Digitized symptoms from the NCERT Class 12 curriculum to create a dataset for resolving diagnostic overlaps (e.g., Malaria vs. Typhoid).
-* **Key Finding:** The ML model (Scikit-learn Decision Tree) automatically identified "Body Pain" as a critical differentiator for Malaria—a pattern that required manual coding in the baseline model.
-
-#### 2. [Cytological Tumor Classification Model](https://github.com/Rehanrichu/Tumor-Classification)
-* **Objective:** Developing an AI model to analyze cellular characteristics (nucleus radius, texture, etc.) to predict malignancy in tumor samples.
-* **Tech Stack:** Random Forest Classifier, Scikit-learn, Pandas.
-* **Impact:** Demonstrates the application of data-driven algorithms to oncology and diagnostic pathology.
-
-#### 3. [Ailment Discoverer](https://github.com/Rehanrichu/Ailment-Discoverer)
+#### 1. [Ailment Discoverer](https://github.com/Rehanrichu/Ailment-Discoverer)
 * **Description:** A specialized tool that cross-references user-reported symptoms with the NCERT Biology syllabus to identify infectious diseases.
 
 ---
