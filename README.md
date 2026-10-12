@@ -1,4 +1,4 @@
-# Rehan C.K.
+# MUHAMMED REHAN C.K
 
 **Student | Aspiring AI Undergraduate | Python and Machine Learning**
 
